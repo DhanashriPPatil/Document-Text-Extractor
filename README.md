@@ -18,12 +18,12 @@ PDFs
 Word documents: DOCX
 
 ## Dependencies
-Streamlit
-PyMuPDF
-pdfplumber
-pandas
-Pillow
-docx2txt
-EasyOCR
-pytesseract
-numpy
+- Streamlit
+- PyMuPDF
+- pdfplumber
+- pandas
+- Pillow
+- docx2txt
+- EasyOCR
+- pytesseract
+- numpy
