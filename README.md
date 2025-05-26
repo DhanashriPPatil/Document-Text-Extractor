@@ -12,28 +12,18 @@ This is a Streamlit-based web application for extracting text from various docum
 - Download extracted text as a `.txt` file.
 
 
-Supported Formats
+## Supported Formats
 Images: JPG, PNG, BMP, etc.
-
 PDFs
-
 Word documents: DOCX
 
-Dependencies
+## Dependencies
 Streamlit
-
 PyMuPDF
-
 pdfplumber
-
 pandas
-
 Pillow
-
 docx2txt
-
 EasyOCR
-
 pytesseract
-
 numpy
