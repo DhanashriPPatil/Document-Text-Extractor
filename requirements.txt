@@ -1,9 +1,5 @@
 streamlit
 PyMuPDF
-zipfile
-tempfile
-json
-re
 pdfplumber
 pandas
 Pillow
