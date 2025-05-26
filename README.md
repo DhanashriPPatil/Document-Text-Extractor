@@ -13,9 +13,9 @@ This is a Streamlit-based web application for extracting text from various docum
 
 
 ## Supported Formats
-Images: JPG, PNG, BMP, etc.
-PDFs
-Word documents: DOCX
+- Images: JPG, PNG, BMP, etc.
+- PDFs
+- Word documents: DOCX
 
 ## Dependencies
 - Streamlit
